@@ -1,0 +1,82 @@
+/* line 128, sprite/*.png */
+.sprite-sprite, .sprite-icon-facebook-gray, .sprite-icon-facebook, .sprite-icon-github-gray, .sprite-icon-github, .sprite-icon-linkedin, .sprite-icon-pin, .sprite-icon-twitter-gray, .sprite-icon-twitter, .sprite-icon-youtube-gray, .sprite-logo-gdg-color, .sprite-logo-gdg-white {
+  background-image: url('http://localhost/sprite/images/sprite-sef3d5c8de5.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-facebook-gray {
+  background-position: 0 0;
+  height: 15px;
+  width: 9px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-facebook {
+  background-position: 0 -15px;
+  height: 15px;
+  width: 9px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-github-gray {
+  background-position: 0 -30px;
+  height: 15px;
+  width: 16px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-github {
+  background-position: 0 -45px;
+  height: 15px;
+  width: 16px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-linkedin {
+  background-position: 0 -60px;
+  height: 15px;
+  width: 17px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-pin {
+  background-position: 0 -75px;
+  height: 101px;
+  width: 55px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-twitter-gray {
+  background-position: 0 -176px;
+  height: 14px;
+  width: 18px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-twitter {
+  background-position: 0 -190px;
+  height: 14px;
+  width: 18px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-icon-youtube-gray {
+  background-position: 0 -204px;
+  height: 17px;
+  width: 13px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-logo-gdg-color {
+  background-position: 0 -221px;
+  height: 60px;
+  width: 163px;
+}
+
+/* line 84, ../../../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sprite-logo-gdg-white {
+  background-position: 0 -281px;
+  height: 60px;
+  width: 162px;
+}
